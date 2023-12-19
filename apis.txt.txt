@@ -1,0 +1,15 @@
+Product Controller API-
+Get Products - Done
+Add a product - Done
+Get one product - Done
+Filter product - Done
+Rate product - Done
+
+Cart Controller API-
+Add items to cart - Done
+get item from cart - Done
+Remove item from cart - Done
+
+User Controller API - 
+Signup - Email,Name,Password,TypeofUser(customer,seller) - Done
+SingIn - Email,Password - Done
