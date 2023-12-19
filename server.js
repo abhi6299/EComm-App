@@ -88,8 +88,8 @@ server.use((err,req,res,next)=>{
     res.status(500).send("Something went wrongg !");
 })
 
-server.listen(3300,()=>{
-    console.log('Server listening on port 3300!');
+server.listen(3200,()=>{
+    console.log('Server listening on port 3200!');
     // connectToMongoDB();
     connectUsingMongoose();
 })
